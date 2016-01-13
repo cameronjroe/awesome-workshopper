@@ -15,7 +15,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 
 ## Workshoppers
 | Module Name  | Description |
-| ------------- | ------------- |
+
 - [ ] [algorithms-101](https://github.com/linclark/algorithms-101) | Introduction to algorithms |
 - [ ] [async-you](https://github.com/bulkan/async-you) | Learn to use https://github.com/caolan/async |
 - [ ] [bacon-love](https://github.com/mikaelbr/bacon-love) | Functional Reactive Programming and Bacon.js |
@@ -68,7 +68,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 
 ### Additional Tools
 | Module Name  | Description |
-| ------------- | ------------- |
+
 - [ ] [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
 - [ ] [adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
 - [ ] [browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
